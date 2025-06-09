@@ -1,6 +1,6 @@
 # Exercícios de Listas - Repositório
 
-Este repositório contém uma coleção de exercícios organizados em 13 pastas, localizadas dentro da pasta `listas`. Cada pasta corresponde a um conjunto de exercícios específicos, e dentro de cada uma há um arquivo README com detalhes e explicações sobre os exercícios daquela seção.
+Este repositório contém uma coleção de exercícios organizados em 13 pastas, localizadas dentro da pasta `LISTAS`. Cada pasta corresponde a um conjunto de exercícios específicos, e dentro de cada uma há um arquivo README com detalhes e explicações sobre os exercícios daquela seção.
 
 ## Como usar este repositório
 
